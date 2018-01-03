@@ -1,0 +1,24 @@
+{
+  "name": "kra_fer_s_14_furry_game",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tafarian/KRA_FER_S_14_Furry_Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tafarian/KRA_FER_S_14_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/tafarian/KRA_FER_S_14_Furry_Game#readme",
+  "devDependencies": {
+    "webpack": "^2.7.0"
+  },
+  "dependencies": {},
+  "keywords": []
+}
